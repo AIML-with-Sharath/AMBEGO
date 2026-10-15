@@ -1,0 +1,6 @@
+{
+  "name": "AmbeGo - Unified Ambulance Booking & Emergency Response Platform",
+  "description": "Next-gen emergency medical transportation and multi-provider ambulance aggregator connecting patients, private fleets, hospital units, and public emergency services with live dispatch and tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
